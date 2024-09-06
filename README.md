@@ -1,15 +1,13 @@
-# ABOUT ME
-##### Z určitých dôvodov nechcem zdieľať toľko informácií o mne na IG, preto som sa rozhodla ako môj prvý pokus o tom spraviť samostatý web
-#### Volám sa Simona, mám momentálne 17 rokov, milujem počítače, elektro, programovanie, nemám ďaleko od matematiky a fyziky. Vo voľnom čase sa taktiež venujem folklóru (navštevujem DFS Čečinka) a voľakedy aj audiovizuálnej tvorbe. 
-#### Ľudia ma často vídajú nosiť chlapčenské oblečenie. Nie, nejde o nikaký trendy spôsob hľadania pozornosti. Zo začiatku som chlapčenské oblečenie nosila ako protest proti predaju kvantitatívneho odpadu ženám v dámskych oddeleniach, no momentálne to považujem za odkaz. Chcem ním hlavne povedať, že ženy nepatria len do kuchyne, ale môžu sa chopiť náradia a niečo vytvoriť. Môžeme robiť elektrotechniku, máme na to. Nie je nikto rozumný, kto by nám v tom bránil. Sme tým koho zo seba urobíme, nie tým, čo od nás spoločnosť očakáva. S tým ale treba niesť aj následky, ktoré v príliš excentrických prípadoch vedia byť kruté. Všetko samozrejme s mierou. 
-#### Nejako mi dochádzajú nápady, o tom, čo by som napísala, tak asi idem menovať:
-| Otázka  | odpoveď |
-| ------------- | ------------- |
-| obľúbená fatba  | zelená  |
-| obľúbené zviera  | asi líška  |
-| obľúbená videohra  | Detroit: Become Human  |
-| obľúbený región  | Detva <33  |
-| obľúbená prezývka  | "Simi"  |
-| horoskop  | OHMOV ZÁKON  |
-| relationship status  | mám priateľa  |
-| love language  | touch  |
+# Simona Wiki
+##### "Ak nebude iná možnosť, tak... tak není iná možnosť"
+#### Opica (z lat. 'Simona Veliká') je humanoid z hlbokého pralesa, ktorého mimozemšťania omylom teleportovali na Slovensko. Svojím výzorom a správaním napodobňuje človeka. Pri bližšom pozorovaní si ľahko všimneme výrazné rozdiely.
+![FB_IMG_1724238130029](https://github.com/user-attachments/assets/8572bb81-1c7b-411d-8895-2c65532de4e4)
+
+### Morfológia
+#### Dĺžka tela opice sa blíži k 1.63 metrom. Predné končatiny sú uspôsobené na uchopenie primitívnych nástrojov použiteĺných na primitívne účely.
+![IMG_20240821_173340](https://github.com/user-attachments/assets/ed5d14a3-2d33-4bab-8f26-40f3583af5ea)
+
+### Neuro-psychomotorická špecifikácia
+#### Vyznačuje sa vysokou potrebou rozprávať v jej nepochopiteľnom jazyku, ktorému občas sama ani nerozumie, na základe čoho je nútená naslúchať rozprávaniu zrozumiteľných jazykov. Veľmi typicá je neschopnosť komunikácie a sociálnej existencie, vyobrazujúca sa na častom opúšťaní spoločnosti s väčším množstvom osôb ako 1.
+
+## https://www.youtube.com/results?search_query=rickroll
