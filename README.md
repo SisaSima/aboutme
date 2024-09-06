@@ -10,4 +10,4 @@
 ### Neuro-psychomotorická špecifikácia
 #### Vyznačuje sa vysokou potrebou rozprávať v jej nepochopiteľnom jazyku, ktorému občas sama ani nerozumie, na základe čoho je nútená naslúchať rozprávaniu zrozumiteľných jazykov. Veľmi typicá je neschopnosť komunikácie a sociálnej existencie, vyobrazujúca sa na častom opúšťaní spoločnosti s väčším množstvom osôb ako 1.
 
-## https://www.youtube.com/results?search_query=rickroll
+## https://www.youtube.com/watch?v=dQw4w9WgXcQ
