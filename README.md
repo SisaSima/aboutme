@@ -1,12 +1,15 @@
 # ABOUT ME
-##### Toto je môj prvý pokus robenia webstránok, tak prosím, majte so mnou strpenia :))
-#### V biu na instagrame sa toho veľa povedať nedá, tak som sa, aby toho nebolo málo, rozhodla k tomu spraviť celý web.
-#### Domnievam sa, že na tento link ste klikli práve preto, aby ste ma viac postalkovali na internete a viac o mne zistili.
-#### Nebudem sa tu na nič hrať, do ig sa mi z osobných dôvodov písať svoje osobné údaje nechce a tak vám aspoň takto uľahčím robotu.
-#### Som Simona a mám momentálne 17 rokov. Milujem počítače, elektro, nemám ďaleko k fyzike, matematike, informatike.
-#### Mimo tieto nerdy záľuby mám veľkú obľubu v našom folklóre, nakoľko hrám aj v DFS.
-#### Milujem folklórne tance, kroje, hudbu a veľmi sa teším z toho, že môj priateľ tieto záujmy podporuje a zdieľa.
-
-
-![IMG_20240821_233912](https://github.com/user-attachments/assets/2519c9bb-e555-4d8d-8146-5b3e127b468d)
-#### us, nerdy as always
+##### Z určitých dôvodov nechcem zdieľať toľko informácií o mne na IG, preto som sa rozhodla ako môj prvý pokus o tom spraviť samostatý web
+#### Volám sa Simona, mám momentálne 17 rokov, milujem počítače, elektro, programovanie, nemám ďaleko od matematiky a fyziky. Vo voľnom čase sa taktiež venujem folklóru (navštevujem DFS Čečinka) a voľakedy aj audiovizuálnej tvorbe. 
+#### Ľudia ma často vídajú nosiť chlapčenské oblečenie. Nie, nejde o nikaký trendy spôsob hľadania pozornosti. Zo začiatku som chlapčenské oblečenie nosila ako protest proti predaju kvantitatívneho odpadu ženám v dámskych oddeleniach, no momentálne to považujem za odkaz. Chcem ním hlavne povedať, že ženy nepatria len do kuchyne, ale môžu sa chopiť náradia a niečo vytvoriť. Môžeme robiť elektrotechniku, máme na to. Nie je nikto rozumný, kto by nám v tom bránil. Sme tým koho zo seba urobíme, nie tým, čo od nás spoločnosť očakáva. S tým ale treba niesť aj následky, ktoré v príliš excentrických prípadoch vedia byť kruté. Všetko samozrejme s mierou. 
+#### Nejako mi dochádzajú nápady, o tom, čo by som napísala, tak asi idem menovať:
+| Otázka  | odpoveď |
+| ------------- | ------------- |
+| obľúbená fatba  | zelená  |
+| obľúbené zviera  | asi líška  |
+| obľúbená videohra  | Detroit: Become Human  |
+| obľúbený región  | Detva <33  |
+| obľúbená prezývka  | "Simi"  |
+| horoskop  | OHMOV ZÁKON  |
+| relationship status  | mám priateľa  |
+| love language  | touch  |
