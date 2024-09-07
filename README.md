@@ -27,6 +27,7 @@ obľúbený región | DETVA
 relationship status | vo vzťahu
 obľúbená hra | DETROIT:BECOME HUMAN
 obľúbený crush | ConnorRK800
+1 | 2 | 3
 
 
 [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
