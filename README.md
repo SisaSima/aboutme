@@ -19,15 +19,5 @@ if (people >= 0+simna.num){
 }
 ```
 
-obľúbené jedlo | cestoviny
-obľúbená farba | zelená
-olúbený šport | gaučing
-obľúbené zviera | líška
-obľúbený región | DETVA
-relationship status | vo vzťahu
-obľúbená hra | DETROIT:BECOME HUMAN
-obľúbený crush | ConnorRK800
-| Tables        | Are           | Cool  |
-
 
 [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
