@@ -12,4 +12,21 @@
 ### Neuro-psychomotorická špecifikácia
 #### Vyznačuje sa vysokou potrebou rozprávať v jej nepochopiteľnom jazyku, ktorému občas sama ani nerozumie, na základe čoho je nútená naslúchať rozprávaniu zrozumiteľných jazykov. Veľmi typicá je neschopnosť komunikácie a sociálnej existencie, vyobrazujúca sa na častom opúšťaní spoločnosti s väčším množstvom osôb ako 1.
 
+#### Tento vzťah sa dá vyjatriť pomocou nasledujúceho kódu:
+```python
+if (people >= 0+simna.num){
+  runaway(simona);
+}
+```
+
+obľúbené jedlo | cestoviny
+obľúbená farba | zelená
+olúbený šport | gaučing
+obľúbené zviera | líška
+obľúbený región | DETVA
+relationship status | vo vzťahu
+obľúbená hra | DETROIT:BECOME HUMAN
+obľúbený crush | ConnorRK800
+
+
 [https://www.youtube.com/watch?v=dQw4w9WgXcQ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
